@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "restaurant-dashboard-459711",
+  "private_key_id": "80458128d66947116607c5c329eccd52120e859b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpLnLtDZoDW2ya\nZ3sUTsVpwxbpkNKWHLf1RmF57aBm5fAHwxtgYeS5lpfxqzZ3w8dYrXQWO55vBNIf\nAKW+bVaMdgrz0rQpsP+aBPRdh51BVj9oRDwNXgXa6DJN040rOLlBnsMM0COpb3BG\nGI23uDUMLN2H1LSuwJ81hPuHf9NHhCSP79TbwbNZmGzgjRSxhkRX/pNZSRQNlIDf\nkOAWY6iWps6wWntng+VE8N8XK4KZ8onho4DFDYd96m/P0/zyZVjbsuIexGGKGqfE\nysEGOyA4xEjWS3+8MmzUIXudb1QvAPdXNEWrJAUbOCL6VKOtVh4HFoc0iSaZoXoo\nwmz61kypAgMBAAECggEAAIT7N6ojuqu+NEEdun+IIiSPMYKc4rnYupvjal/v02tX\niPx4k/b0ywJfWfFJ3RvS42f4dYEo5+k9gloTBq7iJFNuyzM30Hf07txuDqamvq8H\ner1xRqpr8UCLPWDEqOwclNctXottriCDvfB/w/G6k34T0jKBxZB+0fuLubzXgw21\npQrKH+crT2K+fYU6CbRvoUtxygLhvQF+1eKs2ziZpXdP5DykWoHJthaIMDPBPm++\noX3b3T4AsOx2MNF8kyr4033uCPGQEC8DZjfRvXthhavBUWTTkn18clksjEmWeFJa\nWDEH0/p+A8QVBE4kRF2lWETLqApQEbQ7HKIsEIIdHQKBgQDVdezeGg/ynVU5ONlV\ns4o/jMAg6529ObeIY0lg5X2TFCJNc5nXqlXthScL1A8rV4qUTUEkX7ZCTiuL/9IH\nJU2ZkKhdhv+yEVhsckCvZ85b45cx11KhL/eWIrizEd6gbGNZib1jOb7aD6bPpQ/Y\n+j+zTI42ny7wLVN6/l1iV3FMBQKBgQDK5YqPIVdl2s1VJy0XXF9W2FNRB2NaugAo\nc1R4vBfp9W6WzWwuQ8MNbaoP/+SJ52m0ymPgh9wOxb8jXoalruTlq/KpCreygV6y\nnW1UtSe+rZrQ7SEMIDsKRrlhxe3KXbdZSiHhNGRAwMdKsTISOJUcjTDa+jqGnGNA\nqNgySUQDVQKBgAcQjRNYt3hnHp/zMrY0Z/nsdZthUOonU9yutIoBbmOEwhHgJpJN\nr+RZiM5KaWoczphT6jkC9exB3A0ZHWFhKa1QbVITGrlQ+6UzLtLfU6QU5zceEj0F\ncmNEqOo8SCr1C2C2P09eZOOgqvuqUdjzh1Iu0XIbWJlYVq/2ZS7RCA3lAoGAOkov\nwGcHwM9XZjtXDPsQuNZ1OTYyKQJ+wSBBCF6hUCmel9x0U+ZLxzPWQ7p0YdoF2Fa8\n0ui1I9lTzEl/zWGtiP4ZPM9DbxkTp6TqoAdbX8BoVdWKRP2NeKpQ3/IJGrZJ0nEl\nwplWo/O+TYsSo4F19Tnq6z4wSjPrn8viMLAzxfECgYEAq4GErKosUw9mgwbwF5Ik\nsyBT4QX8iBPHe1uGBjNe2xj8GEXFz9aD/LW49XoopAN53WxN/o2RlIxQMPqcP/LK\nAYUq9pL13NxOfWOMD9iU0NDUTktN5uwDhl7xZsqmauWzth2xkx2jm1MG6zQSYWxG\nSoHJIxjQAAPT/zdaO0LlaiU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "restaurant-service-account@restaurant-dashboard-459711.iam.gserviceaccount.com",
+  "client_id": "110623188932802374003",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/restaurant-service-account%40restaurant-dashboard-459711.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

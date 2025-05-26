@@ -1,0 +1,3 @@
+# .gitignore
+.streamlit/secrets.toml
+restaurant-dashboard-459711-80458128d669.json
